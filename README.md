@@ -45,6 +45,10 @@
   <a href="https://www.coursera.org/account/accomplishments/certificate/WD25S8XXVNP2">
     <img alt="Object Oriented Programming in Java" title="Object Oriented Programming in Java" src="Certificates/Object-Oriented-Programming-in-Java.png" width="300px" />
   </a>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/XV3KMJELHF6Q">
+    <img alt="Fundamentals of Digital Image and Video" title="Fundamentals of Digital Image and Video" 
+    src="Certificates/Fundamentals-of-Digital-Image-and-Video.png" width="300px" />
+  </a>
 </p>
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/certificate/WDBXJQK2BCEL">
@@ -54,12 +58,6 @@
   <a href="https://www.coursera.org/account/accomplishments/certificate/7W6KSWKG8AWM">
     <img alt="Version Control" title="Version Control" 
     src="Certificates/Version-Control.png" width="300px" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/XV3KMJELHF6Q">
-    <img alt="Fundamentals of Digital Image and Video" title="Fundamentals of Digital Image and Video" 
-    src="Certificates/Fundamentals-of-Digital-Image-and-Video.png" width="300px" />
   </a>
 </p>
 
