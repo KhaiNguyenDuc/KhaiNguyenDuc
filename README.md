@@ -40,7 +40,7 @@
 <h1 align="left">Certificates:</h1>
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/certificate/HB8KQNCC7Q9F">
-    <img alt="Duke university java problem sovling skills" title="Java problem sovling skills" src="Certificates/Java-problem-sovling-skills.png" width="300px" />
+    <img alt="Duke university java problem sovling skills" title="Java problem sovling skills" src="Certificates/Solving-Problems-with-java.png" width="300px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/WD25S8XXVNP2">
     <img alt="Object Oriented Programming in Java" title="Object Oriented Programming in Java" src="Certificates/Object-Oriented-Programming-in-Java.png" width="300px" />
@@ -50,6 +50,16 @@
   <a href="https://www.coursera.org/account/accomplishments/certificate/WDBXJQK2BCEL">
     <img alt="Programming Foundations with JavaScript, HTML and CSS" title="Programming Foundations with JavaScript, HTML and CSS" 
     src="Certificates/Programming-Foundations-with-JavaScript-HTML.png" width="300px" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/7W6KSWKG8AWM">
+    <img alt="Version Control" title="Version Control" 
+    src="Certificates/Version-Control.png" width="300px" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/XV3KMJELHF6Q">
+    <img alt="Fundamentals of Digital Image and Video" title="Fundamentals of Digital Image and Video" 
+    src="Certificates/Fundamentals-of-Digital-Image-and-Video.png" width="300px" />
   </a>
 </p>
 
