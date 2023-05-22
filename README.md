@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **spring framework, spring boot**
 
-- 🤝 I’m looking for help with **partime java internship**
-
 - 👨‍💻 All of my projects are available at [https://github.com/KhaiNguyenDuc](https://github.com/KhaiNguyenDuc)
 
 - 📫 How to reach me **duckhailinux@gmail.com**
