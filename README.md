@@ -29,9 +29,9 @@
 <h1 align="left">Stats:</h1>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khainguyenduc&show_icons=true&locale=en&layout=compact" alt="khainguyenduc" /></p>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khainguyenduc&show_icons=true&locale=en" alt="khainguyenduc"/></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khainguyenduc&theme=default&show_icons=true" alt="khainguyenduc"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khainguyenduc&" alt="khainguyenduc" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khainguyenduc" alt="khainguyenduc" /></p>
 
 
 <br/>
